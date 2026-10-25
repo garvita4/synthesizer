@@ -1,16 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Espressif ESP32-S3-WROOM-1-N16R8 Module,1,robu.in,$4.73,$4.73,https://robu.in/product/espressif-esp32-s3-wroom-1-n16r8-module/
-MCP23017-E/SO,1,lcscindia,$2.44,$2.44,https://lcscindia.com/part/C47023
-PCM5102,1,lcscindia,$4.38,$4.38,https://lcscindia.com/part/C1520792
-PAM8403,1,lcscindia,$1.97,$1.97,https://lcscindia.com/part/C5122557
-IP5306,1,lcsc,$2.39,$2.39,https://lcscindia.com/part/C181692
-AMS1117-3.3,1,lcscindia,$0.83,$0.83,https://lcscindia.com/part/C917183
-SJ1-3525NG-GR,1,lioncircuits,$1.22,$1.22,https://www.lioncircuits.com/parts/SJ1-3525NG-GR
+ESP32-S3-WROOM-1-N16R8 Module,1,robu.in,$4.37,$4.37,https://robu.in/product/espressif-esp32-s3-wroom-1-n16r8-module/ps://robu.in
+pcb,1,zbotic,$45.98,$45.98,https://zbotic.in/pcb-manufacturing/
+PAM8403,1,icscindia,$1.97,$1.97,https://lcscindia.com/part/C5122557
 switches,5,meckeys,$2.11,$10.55,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-optical-switch-pack/
-EC11,5,robu.in,$0.61,$3.05,https://robu.in/product/hongyan-ec11h-7ce20p1zd20-rotary-encoder-with-push-button-switch-vertical-plug-in-5-pin/
-inductor,1,lcscindia,$1.17,$1.17,https://lcscindia.com/part/C167216
-hotswap,4,meckeys,$0.84,$3.36,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
-SSK6812MINI-E,4,lcscindia,$0.56,$2.24,https://lcscindia.com/part/C5149201
-Passives,40,ktron,$0.01,$0.40,https://www.ktron.in/product/resistor-4-7e-ohms-4r7-1-1-8w-smd-0805/
-Capacitor,30,ktron,$0.01,$0.30,https://www.ktron.in/product/resistor-4-7e-ohms-4r7-1-1-8w-smd-0805/
+inductor,1,icscindia,$1.17,$1.17,https://lcscindia.com/part/C167216
 Estimated total shipping,1,,,$0.00,
