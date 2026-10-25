@@ -56,3 +56,8 @@ The firmware establishes the core real-time audio synthesis, peripheral manageme
   - Enumerates as a class-compliant USB-MIDI device over the native USB-C port (`IO19`/`IO20`) for seamless DAW integration.
 
 **Development Note:** This firmware is currently an untested starter draft. It is provided as a foundational template and testing version. Full end-to-end testing, feature integration, and fine-tuning will be completed once the hardware production is complete. I will make sure to update the firmware as soon as I am done with the hardware.
+
+![PCB Back Layer](Images/PCBbacklayer.png)
+![PCB Front Layer](Images/PCBfrontlayer.png)
+![PCB 3D View](Images/pcbview.png)
+![System Schematics](Images/schematics.png)
